@@ -15,31 +15,25 @@ Knock me: m.facebook.com/tutul.qcsc
 Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 </div>
 
-- 🔭 I’m currently working on [Weblitical](https://www.weblitical.com/)
+- 🔭 I’m currently working on [Silfrica's MVP]
 
-- 🌱 I’m currently learning Golang, Java, C++
+- 🌱 I’m currently learning more on Laravel and APIs.
 
-- 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/harun181)
+- 👨‍💻 All of my projects are available at [https://github.com/Solu-victoria](https://github.com/Solu-victoria)
 
-- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
+- 💬 Ask me about **PHP, JS, Laravel, MySQL**
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
-
-- 📫 How to reach me **harun181@email.com**
+- 📫 How to reach me **ofuasiasoluchukwu@gmail.com**
 
 - 📄 All About Me:[https://linktr.ee/tutul181](https://linktr.ee/tutul181)
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-<a href="https://fb.com/tutul.qcsc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul.qcsc" height="30" width="40" /></a>
-<a href="https://twitter.com/tutul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="30" width="40" /></a>
-<a href="https://codepen.io/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="harun181" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCttZMJCI9L9PbfJkQw7o-0Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Learn With Tutul" height="30" width="40" /></a>
-<a href="https://instagram.com/tutul_181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
-<a href="https://dribbble.com/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="harun181" height="30" width="40" /></a>
-<a href="https://www.behance.net/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="harun181" height="30" width="40" /></a>
+<a href="https://web.facebook.com/soluchukwu.ofuasia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soluchukwu.ofuasia" height="30" width="40" /></a>
+<a href="https://twitter.com/solu_victoria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="solu_victoria" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/victoria-ofuasia-39a32b227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victoria-ofuasia-39a32b227" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_t.o.r.e.y.a_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
