@@ -1,5 +1,5 @@
 
-![I am Solu-victoria](https://github.com/harun181/harun181/blob/main/code.png)
+![I am Solu-victoria](https://github.com/harun181/harun181/blob/main/ben-griffiths-Bj6ENZDMSDY-unsplash.jpg)
 
 
 <h1 align="center">Hi 👋, I'm VICTORIA OFUASIA(Soluchi)</h1>
