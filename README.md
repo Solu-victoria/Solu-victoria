@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<!-- ![Profile views](https://gpvc.arturio.dev/harun181)  -->
+![Profile views](https://gpvc.arturio.dev/Solu-victoria) 
 
 Welcome to my GitHub profile. I am a Backend Web Developer. 
 Knock me: (https://twitter.com/solu_victoria)
