@@ -1,13 +1,13 @@
 
-![I am harun181](https://github.com/harun181/harun181/blob/main/code.png)
+![I am Solu-victoria](https://github.com/harun181/harun181/blob/main/code.png)
 
 
-<h1 align="center">Hi 👋, I'm HARUN UR ROSHID(Tutul)</h1>
-<h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
+<h1 align="center">Hi 👋, I'm VICTORIA OFUASIA(Soluchi)</h1>
+<h3 align="center">Programmer | Web Developer | Backend Developer | Speed Learner</h3>
 
 <div align="center">
 
-![Profile views](https://gpvc.arturio.dev/harun181) 
+<!-- ![Profile views](https://gpvc.arturio.dev/harun181)  -->
 
 Welcome to my GitHub profile. I am a Backend Web Developer. 
 Knock me: (https://twitter.com/solu_victoria)
@@ -54,20 +54,20 @@ Skills: PHP / JavaScript / LARAVEL / MySQL / HTML / CSS / Bootstrap
 
 <div align="center">
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harun181&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solu-victoria&theme=dark&hide_border=true)](https://github.com/Solu-victoria/github-readme-stats)
 
 </div>
  
 ## Github Stats  
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harun181&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harun181&theme=dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Solu-victoria&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Solu-victoria&theme=dark&hide_border=true" />
 </div>
 
 <br/>
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harun181&bg_color=ffffff&color=777777&line=E44536&point=E44536&area=true&hide_border=true)](https://github.com/harun181/github-readme-activity-graph)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harun181&bg_color=ffffff&color=777777&line=E44536&point=E44536&area=true&hide_border=true)](https://github.com/Solu-victoria/github-readme-activity-graph)
 
 <br/>
 
