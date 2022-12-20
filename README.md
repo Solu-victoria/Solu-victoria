@@ -2,7 +2,7 @@
 ![I am Solu-victoria](https://github.com/Solu-victoria/Solu-victoria/blob/main/ben-griffiths-Bj6ENZDMSDY-unsplash.jpg)
 
 
-<h1 align="center">Hi 👋, I'm VICTORIA OFUASIA(Soluchi)</h1>
+<h1 align="center">Hi 👋, I'm VICTORIA OFUASIA (Soluchi)</h1>
 <h3 align="center">Programmer | Web Developer | Backend Developer | Speed Learner</h3>
 
 <div align="center">
@@ -19,7 +19,7 @@ Skills: PHP / JavaScript / Laravel / MySQL / HTML / CSS / Bootstrap
 
 - 🌱 I’m currently learning more on Laravel and APIs.
 
-- 👯 I'm open to work, learning and collaborations on PHP and Laravel or in even a new language!
+- 👯 I'm willing to work with others, learn from them, and collaborate on projects using PHP, Laravel, or even a different language!
 
 - 👨‍💻 All of my projects are available at [https://github.com/Solu-victoria](https://github.com/Solu-victoria).
 
