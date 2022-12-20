@@ -12,7 +12,7 @@
 Welcome to my GitHub profile. I am a Backend Web Developer. 
 Knock me: (https://twitter.com/solu_victoria)
 
-Skills: PHP / JavaScript / Laravel / MySQL / HTML / CSS / Bootstrap
+Skills: PHP | JavaScript | Laravel | MySQL | HTML | CSS | Bootstrap
 </div>
 
 - 🔭 I’m currently working on an [ID card generator project](https://idcard.managementbookings.online).
@@ -21,7 +21,7 @@ Skills: PHP / JavaScript / Laravel / MySQL / HTML / CSS / Bootstrap
 
 - 👯 I'm willing to work with others, learn from them, and collaborate on projects using PHP, Laravel, or even a different language!
 
-- 👨‍💻 All of my projects are available at [https://github.com/Solu-victoria](https://github.com/Solu-victoria).
+- 👩‍💻 All of my projects are available at [https://github.com/Solu-victoria](https://github.com/Solu-victoria).
 
 - 💬 Ask me about **PHP, JavaScript, Laravel, MySQL**.
 
