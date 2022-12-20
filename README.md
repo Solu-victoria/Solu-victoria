@@ -23,7 +23,7 @@ Skills: PHP / JavaScript / Laravel / MySQL / HTML / CSS / Bootstrap
 
 - 👨‍💻 All of my projects are available at [https://github.com/Solu-victoria](https://github.com/Solu-victoria).
 
-- 💬 Ask me about **PHP, JS, Laravel, MySQL**.
+- 💬 Ask me about **PHP, JavaScript, Laravel, MySQL**.
 
 - 📫 How to reach me **ofuasiasoluchukwu@gmail.com**.
 
