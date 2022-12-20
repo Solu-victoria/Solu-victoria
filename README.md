@@ -9,10 +9,10 @@
 
 ![Profile views](https://gpvc.arturio.dev/harun181) 
 
-Welcome to my GitHub profile. I am the founder of Learn With Tutul. 
-Knock me: m.facebook.com/tutul.qcsc
+Welcome to my GitHub profile. I am a Backend Web Developer. 
+Knock me: (https://twitter.com/solu_victoria)
 
-Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
+Skills: PHP / JavaScript / LARAVEL / MySQL / HTML / CSS / Bootstrap
 </div>
 
 - 🔭 I’m currently working on [Silfrica's MVP]
@@ -25,7 +25,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 📫 How to reach me **ofuasiasoluchukwu@gmail.com**
 
-- 📄 All About Me:[https://linktr.ee/tutul181](https://linktr.ee/tutul181)
+- 📄 Link to my CV and certificates:[https://drive.google.com/drive/folders/1s3FGzkILK51Am-L8iYXLkdV7Wx8sDXrs?usp=share_link](Google drive link)
 
 <h3 align="left">Connect with me:</h3>
 
