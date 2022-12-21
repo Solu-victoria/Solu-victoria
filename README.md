@@ -32,7 +32,7 @@ Skills: PHP | JavaScript | Laravel | MySQL | HTML | CSS | Bootstrap
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-<a href="https://facebook.com/soluchukwu.ofuasia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soluchukwu.ofuasia" height="30" width="40" /></a>
+<a href="https://facebook.com/soluchukwu.ofuasia" target=”_blank”><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soluchukwu.ofuasia" height="30" width="40" /></a>
 <a href="https://twitter.com/solu_victoria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="solu_victoria" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/victoria-ofuasia-39a32b227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victoria-ofuasia-39a32b227" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_t.o.r.e.y.a_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
