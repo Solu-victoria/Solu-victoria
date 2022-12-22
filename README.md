@@ -2,7 +2,7 @@
 ![I am Solu-victoria](https://github.com/Solu-victoria/Solu-victoria/blob/main/ben-griffiths-Bj6ENZDMSDY-unsplash.jpg)
 
 
-<h1 align="center">Hi 👋, I'm VICTORIA OFUASIA (Soluchi)</h1>
+<h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> Hi, I'm VICTORIA OFUASIA (Soluchi)</h1>
 <h3 align="center">Programmer | Web Developer | Backend Developer | Speed Learner</h3>
 
 <div align="center">
