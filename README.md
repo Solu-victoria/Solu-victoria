@@ -27,7 +27,7 @@ Skills: PHP | JavaScript | Laravel | MySQL | HTML | CSS | Bootstrap
 
 - 📫 How to reach me **ofuasiasoluchukwu@gmail.com**.
 
-- [📄 Link to my CV and certificates](https://drive.google.com/drive/folders/1s3FGzkILK51Am-L8iYXLkdV7Wx8sDXrs?usp=share_link).
+- [📄 Link to my CV](https://drive.google.com/drive/folders/1s3FGzkILK51Am-L8iYXLkdV7Wx8sDXrs?usp=share_link).
 
 <h3 align="left">Connect with me:</h3>
 
