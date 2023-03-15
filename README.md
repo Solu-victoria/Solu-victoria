@@ -15,7 +15,7 @@ Knock me: (https://twitter.com/solu_victoria)
 Skills: PHP | JavaScript | Laravel | MySQL | HTML | CSS | Bootstrap
 </div>
 
-- 🔭 I’m currently working on an [ID card generator project](https://idcard.managementbookings.online).
+- 🔭 I’m currently working on an [Silfrica's landing page API](https://silfrica.com).
 
 - 🌱 I’m currently learning more on Laravel and APIs.
 
