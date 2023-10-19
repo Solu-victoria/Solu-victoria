@@ -15,7 +15,7 @@ Knock me: (https://twitter.com/solu_victoria)
 Skills: PHP | JavaScript | Laravel | MySQL | HTML | CSS | Bootstrap
 </div>
 
-- 🔭 I’m currently working on a [Hall/Garage booking website]https://hallga.com.au/).
+- 🔭 I’m currently working on a [Hall/Garage booking website](https://hallga.com.au/).
 
 - 🌱 I’m currently learning more on Python.
 
