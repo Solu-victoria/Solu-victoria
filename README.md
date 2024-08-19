@@ -15,7 +15,7 @@ Knock me: (https://twitter.com/solu_victoria)
 Skills: PHP | JavaScript | Laravel | MySQL | HTML | CSS | Bootstrap
 </div>
 
-- 🔭 I’m currently working on [Multi-vendor E-commerce site API](api.fothiosmed.com).
+- 🔭 I’m currently working on [Multi-vendor E-commerce site API](https://www.fothiosmed.com/).
 
 - 🌱 I’m currently learning more on Python.
 
