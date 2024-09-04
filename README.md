@@ -14,6 +14,8 @@ Skills: PHP | JavaScript | Laravel | MySQL | HTML | CSS | Bootstrap
 </div>
 
 - 🔭 I’m currently working on the V2 of [BlockchainUNN's Website](https://blockchainunn.org/).
+  
+- 👩‍💻 Check out my latest backend project, a [multivendor e-commerce website](https://www.fothiosmed.com/).
 
 - 🌱 I’m currently learning more about Node.js and Python.
 
