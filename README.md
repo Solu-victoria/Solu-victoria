@@ -58,8 +58,8 @@ Skills: PHP | JavaScript | Laravel | MySQL | HTML | CSS | Bootstrap
 ## Github Stats  
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Solu-victoria&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Solu-victoria&theme=dark&hide_border=true" />
+<!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Solu-victoria&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Solu-victoria&theme=dark&hide_border=true" /> -->
 </div>
 
 <br/>
@@ -79,8 +79,8 @@ Skills: PHP | JavaScript | Laravel | MySQL | HTML | CSS | Bootstrap
 </a>
 <a href="https://www.instagram.com/_t.o.r.e.y.a_/" target="blank">
 <img src=https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
- <a href="https://www.facebook.com/soluchukwu.ofuasia" target="blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
 </a> 
-</a>  
+<!--  <a href="https://www.facebook.com/soluchukwu.ofuasia" target="blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
+</a>   -->
 </div>
