@@ -3,7 +3,7 @@
 
 
 <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> Hi, I'm VICTORIA OFUASIA (Soluchi)</h1>
-<h3 align="center">Programmer | Web Developer | Backend Developer | Speed Learner</h3>
+<h3 align="center">Programmer | Backend Developer | Community Manager | Speed Learner</h3>
 
 <div align="center">
 
@@ -13,7 +13,7 @@ Knock me: (https://twitter.com/solu_victoria)
 Skills: PHP | JavaScript | Laravel | MySQL | HTML | CSS | Bootstrap
 </div>
 
-- 🔭 I’m currently working on [Multi-vendor E-commerce site API](https://www.fothiosmed.com/).
+- 🔭 I’m currently working on the V2 of [BlockchainUNN's Website](https://blockchainunn.org/).
 
 - 🌱 I’m currently learning more about Node.js and Python.
 
@@ -54,8 +54,6 @@ Skills: PHP | JavaScript | Laravel | MySQL | HTML | CSS | Bootstrap
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solu-victoria&theme=dark&hide_border=true)](https://github.com/Solu-victoria/github-readme-stats)
 
 </div>
- 
- 
 
 <div align="center">
 <!--   < ## Github Stats img width="48%" src="https://github-readme-stats.vercel.app/api?username=Solu-victoria&theme=dark&show_icons=true&hide_border=true&count_private=true" />
