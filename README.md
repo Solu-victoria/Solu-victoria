@@ -39,7 +39,7 @@ Skills: PHP | JavaScript | Laravel | MySQL | HTML | CSS | Bootstrap
 <p align="center"> 
 <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
  <a href="https://www.javascript.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
- <a href="https://www.laravel.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
+ <a href="https://www.laravel.com" target="_blank"> <img src="https://www.svgrepo.com/show/376332/laravel.svg" alt="laravel" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -59,13 +59,11 @@ Skills: PHP | JavaScript | Laravel | MySQL | HTML | CSS | Bootstrap
 <!--   < ## Github Stats img width="48%" src="https://github-readme-stats.vercel.app/api?username=Solu-victoria&theme=dark&show_icons=true&hide_border=true&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Solu-victoria&theme=dark&hide_border=true" /> -->
 </div>
-
 <br/>
 
 <!-- [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Solu-victoria&bg_color=ffffff&color=777777&line=E44536&point=E44536&area=true&hide_border=true)](https://github.com/Solu-victoria/github-readme-activity-graph)
  -->
 <br/>
-
 ## Connect with me  
 <div align="center">
 <br/>
