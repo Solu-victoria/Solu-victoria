@@ -15,7 +15,7 @@ Skills: PHP | JavaScript | Laravel | MySQL | HTML | CSS | Bootstrap
 
 - 🔭 I’m currently working on [Multi-vendor E-commerce site API](https://www.fothiosmed.com/).
 
-- 🌱 I’m currently learning more about Node.js Python.
+- 🌱 I’m currently learning more about Node.js and Python.
 
 - 👯 I'm willing to work with others, learn from them, and collaborate on projects using PHP, Laravel, or even a different language!
 
