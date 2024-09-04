@@ -7,8 +7,6 @@
 
 <div align="center">
 
-![Profile views](https://gpvc.arturio.dev/Solu-victoria) 
-
 Welcome to my GitHub profile. I am a Backend Web Developer. 
 Knock me: (https://twitter.com/solu_victoria)
 
@@ -17,7 +15,7 @@ Skills: PHP | JavaScript | Laravel | MySQL | HTML | CSS | Bootstrap
 
 - 🔭 I’m currently working on [Multi-vendor E-commerce site API](https://www.fothiosmed.com/).
 
-- 🌱 I’m currently learning more on Python.
+- 🌱 I’m currently learning more about Node.js Python.
 
 - 👯 I'm willing to work with others, learn from them, and collaborate on projects using PHP, Laravel, or even a different language!
 
