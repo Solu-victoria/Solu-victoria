@@ -13,7 +13,7 @@ Knock me: (https://twitter.com/solu_victoria)
 Skills: PHP | JavaScript | Laravel | MySQL | HTML | CSS | Bootstrap
 </div>
 
-- 🔭 I’m currently working on [Pharmfinder e-commerce and networking application](https://www.pharmafinder247.com/).
+- 🔭 I’m currently working on [Pharmafinder](https://www.pharmafinder247.com/), an e-commerce and networking application.
   
 - 👩‍💻 Check out my latest backend project, a [multivendor e-commerce website](https://www.fothiosmed.com/).
 
