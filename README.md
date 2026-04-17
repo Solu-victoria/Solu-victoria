@@ -3,27 +3,27 @@
 
 
 <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> Hi, I'm VICTORIA OFUASIA (Soluchi)</h1>
-<h3 align="center">Programmer | Backend Developer | Community Manager | Speed Learner</h3>
+<h3 align="center">Programmer | Researcher | Backend Developer | Community Builder | Speed Learner</h3>
 
 <div align="center">
 
 Welcome to my GitHub profile. I am a Backend Web Developer. 
 Knock me: (https://twitter.com/solu_victoria)
 
-Skills: PHP | JavaScript | Laravel | MySQL | HTML | CSS | Bootstrap
+Skills: PHP | Python | JavaScript | Laravel | MySQL | HTML | CSS | Community Building | Research 
 </div>
 
-- 🔭 I’m currently working on [Pharmafinder](https://www.pharmafinder247.com/), an e-commerce and networking application.
+- 🔭 I’m currently working on reinforcement learning in education research.
   
 - 👩‍💻 Check out my latest backend project, a [multivendor e-commerce website](https://www.fothiosmed.com/).
 
-- 🌱 I’m currently learning more about Node.js and Python.
+- 🌱 I’m currently learning more about reinforcement learning.
 
-- 👯 I'm willing to work with others, learn from them, and collaborate on projects using PHP, Laravel, or even a different language!
+- 👯 I'm willing to work with others, learn from them, and collaborate on projects using PHP, Laravel, Python, JavaScript, Typescript or even a different language!
 
 - 👩‍💻 All of my projects are available at [https://github.com/Solu-victoria](https://github.com/Solu-victoria).
 
-- 💬 Ask me about **PHP, JavaScript, Laravel, MySQL**.
+- 💬 Ask me about **PHP, JavaScript, Laravel, MySQL, Python, Community Building**.
 
 - 📫 How to reach me **ofuasiasoluchukwu@gmail.com**.
 
@@ -33,7 +33,7 @@ Skills: PHP | JavaScript | Laravel | MySQL | HTML | CSS | Bootstrap
 
 <p align="center">
 <a href="https://twitter.com/solu_victoria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="solu_victoria" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/victoria-ofuasia-39a32b227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victoria-ofuasia-39a32b227" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/soluchi-victoria-ofuasia-39a32b227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victoria-ofuasia-39a32b227" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_t.o.r.e.y.a_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_t.o.r.e.y.a_" height="30" width="40" /></a>
 </p>
 
