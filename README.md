@@ -10,12 +10,13 @@
 Welcome to my GitHub profile. I am a Backend Web Developer. 
 Knock me: (https://www.linkedin.com/in/soluchi-victoria-ofuasia-39a32b227/)
 
-Skills: PHP | Python | JavaScript | Laravel | MySQL | HTML | CSS | Community Building | Research 
+Skills: PHP | Laravel | Python | JavaScript | MySQL | HTML | CSS | Community Building | Research 
 </div>
 
 - 🔭 I’m currently working on reinforcement learning in education research.
   
 - 👩‍💻 Check out my latest backend project, a [multivendor e-commerce website](https://www.fothiosmed.com/).
+- Check out my latest community initiative, [Open Source Nest](https://opensourcenest.org)
 
 - 🌱 I’m currently learning more about reinforcement learning.
 
@@ -39,6 +40,7 @@ Skills: PHP | Python | JavaScript | Laravel | MySQL | HTML | CSS | Community Bui
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
+<a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" alt="python" width="40"/> </a>
 <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
  <a href="https://www.javascript.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
  <a href="https://www.laravel.com" target="_blank"> <img src="https://w7.pngwing.com/pngs/399/620/png-transparent-laravel-hd-logo-thumbnail.png" alt="laravel" width="40" height="40"/> </a> 
