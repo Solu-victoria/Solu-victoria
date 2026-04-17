@@ -8,7 +8,7 @@
 <div align="center">
 
 Welcome to my GitHub profile. I am a Backend Web Developer. 
-Knock me: (https://twitter.com/solu_victoria)
+Knock me: (https://www.linkedin.com/in/soluchi-victoria-ofuasia-39a32b227/)
 
 Skills: PHP | Python | JavaScript | Laravel | MySQL | HTML | CSS | Community Building | Research 
 </div>
